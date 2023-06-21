@@ -1,9 +1,12 @@
 ---
-title: vue
-date: 2023-03-29 21:47:51
-tags: vue
-categories: 前端框架
-cover: /img/牌牌vue.png
+slug: first-blog-post
+title: First Blog Post
+authors:
+  name: Gao Wei
+  title: Docusaurus Core Team
+  url: https://github.com/wgao19
+  image_url: https://github.com/wgao19.png
+tags: [hola, docusaurus]
 ---
 
 ## MVVM
